@@ -63,9 +63,7 @@
 
   SIZE = 0x500;
   INDEX = 1;
-  HOMING = 0x97;
-  VOICE= 0x9e;
-  PHOTO= 0x9c;
+
   //dumpAddr('dump args[1]',args[1],SIZE);
   //log("SSL_write("+"args1"+Memory.readUtf8String(args[1])+")");
   
